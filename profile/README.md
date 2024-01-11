@@ -1,14 +1,8 @@
 🌟 Welcome to Sparckles! 🌟
 --------------------------
 
-Sparckles is an innovative open-source organization dedicated to enhancing the Python ecosystem by developing cutting-edge tools, fostering a vibrant community, and providing robust infrastructure solutions.
+Sparckles is an innovative open-source organization dedicated to extending the Web!
 
-Driven by a passion for open collaboration, knowledge sharing, and the dismantling of walled gardens, Sparckles aims to empower Python developers across the globe by offering resources, tools, and a nurturing environment to grow their skills and contribute to the collective advancement of the programming landscape.
-
-🎉 Introducing sparckles.cloud
-------------------------------
-
-Sparckles is proud to present [sparckles.cloud](https://sparckles.cloud), the easiest and most efficient way to deploy and build Python applications. This platform-as-a-service (PaaS) offering is designed to streamline the development, deployment, and management of Python applications, allowing developers to focus on writing code and innovating, while Sparckles.cloud takes care of the infrastructure, scalability, and security.
 
 ⛳ Flagship Projects
 --------------------
@@ -18,6 +12,8 @@ Sparckles currently houses two flagship projects that showcase its commitment to
 1. [**Robyn**](https://github.com/sansyrox/robyn): A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 
 2. [**Starfyre**](https://github.com/sansyrox/starfyre): A Python Framework for writing Reactive Front-End Applications.
+
+3. [sparckles.cloud](https://sparckles.cloud): The easiest and most efficient way to deploy and build Python applications. This platform-as-a-service (PaaS) offering is designed to streamline the development, deployment, and management of Python applications, allowing developers to focus on writing code and innovating, while Sparckles.cloud takes care of the infrastructure, scalability, and security.
 
 👫 Join us on our journey
 ------------------------
